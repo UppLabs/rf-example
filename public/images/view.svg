@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="130px" height="190px" viewBox="0 0 130 190" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>window_2/view copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="10" y="10" width="110" height="170"></rect>
+        <rect id="path-3" x="10" y="10" width="110" height="85"></rect>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="window_2/view-copy">
+            <g id="window_1">
+                <rect id="Rectangle-8" fill="#232323" x="0" y="0" width="130" height="190"></rect>
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Rectangle-8-Copy" fill="#787878" xlink:href="#path-1"></use>
+                <g id="view-copy" mask="url(#mask-2)">
+                    <g transform="translate(-3.000000, 0.000000)">
+                        <rect id="sky" fill="#F0F3F4" x="3" y="0" width="130" height="190"></rect>
+                        <g id="houses" stroke-width="1" fill="none" transform="translate(0.000000, 26.000000)">
+                            <polygon id="Path-19" fill="#B8CDD2" points="3.34540054 104.327523 10.740105 104.327368 10.740105 113.53058 16.9228175 113.53058 16.9228175 119.052496 18.1235947 119.052496 18.1235947 92.6417994 19.9710907 92.6417994 19.9710907 88.9890985 21.8181432 88.9890985 21.8181432 84.6943396 24.2811756 84.6943396 24.2811756 88.9890985 26.744208 88.9890985 26.744208 92.6417994 28.5914822 92.6417994 28.5914822 119.052496 33.517547 119.052496 33.517547 117.825337 35.3648212 117.825337 35.3648212 103.100449 59.3793867 103.100449 59.3793867 133.163762 69.2315162 133.163762 69.2315162 127.641929 70.4630324 127.641929 70.4630324 114.757652 90.7830493 114.757652 90.7830493 133.163762 119.107921 133.163762 119.107921 87.1484876 120.339438 87.1484876 120.339438 84.6943396 125.88126 84.6943396 125.88126 87.1484876 127.112777 87.1484876 127.112777 133.163762 132.654599 133.163762 132.654599 162 3.34540054 162"></polygon>
+                            <rect id="Rectangle-23" fill="#B7B5BA" x="99.0857143" y="109.698113" width="14.8952381" height="61.3018868"></rect>
+                            <rect id="Rectangle-21" fill="#2E80A7" x="40.8" y="107.762264" width="23.3142857" height="63.2377358"></rect>
+                            <g id="Group-11" transform="translate(75.123810, 0.000000)">
+                                <polygon id="Path-20" fill="#6D9CA4" points="3.88571429 38.0716981 22.0190476 38.0716981 25.9047619 171 0 171"></polygon>
+                                <path d="M5.82857143,38.0716981 L12.3047619,33.554717 L12.952381,0 L13.6,0 L14.247619,33.554717 C18.1333333,36.5660377 20.0761905,38.0716981 20.0761905,38.0716981 C20.0761905,38.0716981 15.3269841,38.0716981 5.82857143,38.0716981 Z" id="Path-21" fill="#327C9D"></path>
+                                <polygon id="Path-22" fill="#327D9C" points="13.2761905 35.490566 0.647619048 171 25.9047619 171"></polygon>
+                            </g>
+                            <polygon id="Path-23" fill="#D9D9DC" points="0 171 0 101.954717 12.3047619 89.0490566 12.3047619 171"></polygon>
+                        </g>
+                    </g>
+                </g>
+                <g id="Rectangle-8-Copy-2" mask="url(#mask-2)" stroke-width="8">
+                    <rect stroke="#232323" x="14" y="14" width="102" height="77"></rect>
+                    <rect stroke-opacity="0.261039402" stroke="#FFFFFF" x="14" y="14" width="102" height="77"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

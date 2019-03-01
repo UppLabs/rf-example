@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="41px" viewBox="0 0 27 41" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>pin</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Artboard-Copy-5" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-250.000000, -219.000000)">
+        <g id="info" transform="translate(50.000000, 43.000000)" stroke="#FFFFFF">
+            <path d="M213.421094,217 L202.232836,195.314665 C199.053034,189.151501 201.471527,181.577531 207.634691,178.397729 C209.414911,177.479249 211.389037,177 213.392231,177 C220.336242,177 225.965476,182.629233 225.965476,189.573244 C225.965476,191.574163 225.487928,193.546187 224.572519,195.325429 L213.421094,217 Z M213.5,193 C215.432997,193 217,191.432997 217,189.5 C217,187.567003 215.432997,186 213.5,186 C211.567003,186 210,187.567003 210,189.5 C210,191.432997 211.567003,193 213.5,193 Z" id="pin"></path>
+        </g>
+    </g>
+</svg>

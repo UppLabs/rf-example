@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="52px" viewBox="0 0 42 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>wall-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="24.15" y="35.36" width="17.85" height="16.64"></rect>
+        <rect id="path-2" x="24.15" y="0" width="17.85" height="16.64"></rect>
+        <rect id="path-3" x="24.15" y="15.6" width="17.85" height="20.8"></rect>
+    </defs>
+    <g id="Artboard-Copy-5" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-51.000000, -419.000000)">
+        <g id="info" transform="translate(50.000000, 43.000000)">
+            <g id="wall-issue" transform="translate(1.000000, 376.000000)">
+                <g id="wall-icon">
+                    <g id="paperwork-icon-copy">
+                        <rect id="Rectangle-Copy" fill="#FFFFFF" x="0" y="0" width="42" height="52"></rect>
+                        <rect id="Rectangle-4-Copy" stroke="#D7C3B1" x="0.5" y="0.5" width="23.15" height="15.64"></rect>
+                        <rect id="Rectangle-4-Copy-6" stroke="#D7C3B1" x="0.5" y="16.1" width="23.15" height="19.8"></rect>
+                        <rect id="Rectangle-4-Copy-3" stroke="#D7C3B1" x="0.5" y="35.86" width="23.15" height="15.64"></rect>
+                        <g id="Rectangle-4-Copy-2">
+                            <use fill="#EDEDED" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            <rect stroke="#D7C3B1" stroke-width="1" x="24.65" y="35.86" width="16.85" height="15.64"></rect>
+                        </g>
+                        <g id="Rectangle-4-Copy-4">
+                            <use fill="#EDEDED" fill-rule="evenodd" xlink:href="#path-2"></use>
+                            <rect stroke="#D7C3B1" stroke-width="1" x="24.65" y="0.5" width="16.85" height="15.64"></rect>
+                        </g>
+                        <g id="Rectangle-4-Copy-5">
+                            <use fill="#EDEDED" fill-rule="evenodd" xlink:href="#path-3"></use>
+                            <rect stroke="#D7C3B1" stroke-width="1" x="24.65" y="16.1" width="16.85" height="19.8"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

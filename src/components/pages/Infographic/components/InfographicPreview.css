@@ -1,0 +1,29 @@
+.InfographicPreview-container {
+    min-height: 560px;
+    padding: 18px 15px;
+    border-radius: 5px;
+    border: 1px solid rgb(196, 196, 196);
+    box-shadow: 0px 0px 8px #d9d9d9;
+}
+
+.InfographicPreview {
+    min-height: 450px;
+    width: 380px;
+    box-shadow: 0 0 20px 0 rgba(0,0,0,0.1);
+    
+    border-radius: 2px;
+    background: url('/images/empty-room.svg');
+    background-size: 100%;
+}
+
+.Infographic-Preview {
+    width: 410px;
+    min-height: 470px !important;
+}
+
+.RentaFriend__Footer {
+    background-color: #19a9e5;
+    text-align: center;
+    padding: 3px;
+    font-size: 9px;
+}

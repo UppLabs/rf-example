@@ -1,0 +1,92 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Montserrat', sans-serif !important;
+}
+
+#root .navbar-default {
+  background-color: #19a9e5;
+}
+
+#root .navbar {
+  border-radius: 0 0 4px 4px;
+}
+
+#root .navbar-default .navbar-brand {
+  color: #fff;
+}
+
+#root .navbar-header {
+  /* margin-left: auto;
+  margin-right: auto; */
+}
+
+#root .navbar-default > .container{
+  display: flex;
+}
+
+#root .react-datepicker{
+  font-size: 1.2rem;
+  font-family: 'Montserrat';
+}
+
+#root .react-datepicker__current-month{
+  font-size: 1.06rem;
+}
+
+#root .button-blue {
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 20px;
+  height: 35px;
+  width: 120px;
+  background-color: #19a9e5;
+  border: 0;
+  outline: 0;
+  color: #fff;
+}
+
+#root .loader-container {
+  position: absolute;
+  top:0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgb(196, 196, 196);
+  opacity: 0.5;
+}
+
+#root .sweet-loading {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-left: -10px;
+}
+
+@media(max-width:1000px){
+  .Infographic-editor-location-icon ~ div > .Infographic-editor-input {
+    width: 300px !important;
+  }
+
+  .Infographic-editor-textarea {
+    width: 300px !important;
+  }
+
+  .Infographic-editor-buttons {
+    margin-bottom: 20px;
+  }
+
+  div.Infographic-appartment-type-container-items {
+    display: block;
+  }
+
+  .navbar-header button.navbar-toggle {
+    position: absolute;
+    right: 15px;
+  }
+
+  .row.InfographicsList {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}

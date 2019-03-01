@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="130px" height="190px" viewBox="0 0 130 190" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>window_2/view copy 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="10" y="10" width="110" height="170"></rect>
+        <rect id="path-3" x="10" y="10" width="110" height="85"></rect>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="window_2/view-copy-2">
+            <g id="window_1">
+                <rect id="Rectangle-8" fill="#232323" x="0" y="0" width="130" height="190"></rect>
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Rectangle-8-Copy" fill="#787878" xlink:href="#path-1"></use>
+                <g id="view-copy" mask="url(#mask-2)">
+                    <rect id="sky" fill="#C35214" x="0" y="0" width="130" height="190"></rect>
+                    <rect id="Rectangle-Copy" fill="#D8D8D8" opacity="0.100000001" x="60" y="121" width="49" height="13" rx="2"></rect>
+                    <path d="M88,136 L130,136 L130,149 L88,149 C86.8954305,149 86,148.104569 86,147 L86,138 C86,136.895431 86.8954305,136 88,136 Z" id="Rectangle-Copy-3" fill="#D8D8D8" opacity="0.5"></path>
+                    <rect id="Rectangle-Copy-5" fill="#D8D8D8" opacity="0.5" x="25" y="42" width="49" height="13" rx="2"></rect>
+                    <path d="M17,57 L47,57 C48.1045695,57 49,57.8954305 49,59 L49,68 C49,69.1045695 48.1045695,70 47,70 L17,70 L17,57 Z" id="Rectangle-Copy-6" fill="#D8D8D8" opacity="0.5"></path>
+                </g>
+                <g id="Rectangle-8-Copy-2" mask="url(#mask-2)" stroke-width="8">
+                    <rect stroke="#232323" x="14" y="14" width="102" height="77"></rect>
+                    <rect stroke-opacity="0.261039402" stroke="#FFFFFF" x="14" y="14" width="102" height="77"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

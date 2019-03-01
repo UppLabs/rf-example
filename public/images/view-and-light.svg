@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="220px" height="337px" viewBox="0 0 220 337" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>view_1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Artboard-Copy-4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(0.000000, -515.000000)">
+        <g id="window_1/view" transform="translate(0.000000, 515.000000)">
+            <g id="Group-2-Copy">
+                <g id="view" transform="translate(0.000000, 10.000000)">
+                    <rect id="sky" fill="#F0F3F4" x="0" y="0" width="210" height="317"></rect>
+                    <g id="houses" transform="translate(0.000000, 52.000000)">
+                        <polygon id="Path-19" fill="#B8CDD2" points="0 171 12.0091065 170.999747 12.0091065 186.000003 22.0499206 186.000003 22.0499206 195.000138 24 195.000138 24 151.953514 27.0003601 151.953514 27.0003601 146 30 146 30 139 34 139 34 146 38 146 38 151.953514 41 151.953514 41 195.000138 49 195.000138 49 193 52 193 52 169 91 169 91 218 107 218 107 209 109 209 109 188 142 188 142 218 188 218 188 143 190 143 190 139 199 139 199 143 201 143 201 218 210 218 210 265 0 265"></polygon>
+                        <rect id="Rectangle-23" fill="#B7B5BA" x="153" y="170" width="23" height="95"></rect>
+                        <rect id="Rectangle-21" fill="#2E80A7" x="63" y="167" width="36" height="98"></rect>
+                        <g id="Group-11" transform="translate(116.000000, 0.000000)">
+                            <polygon id="Path-20" fill="#6D9CA4" points="6 59 34 59 40 265 0 265"></polygon>
+                            <path d="M9,59 L19,52 L20,0 L21,0 L22,52 C28,56.6666667 31,59 31,59 C31,59 23.6666667,59 9,59 Z" id="Path-21" fill="#327C9D"></path>
+                            <polygon id="Path-22" fill="#327D9C" points="20.5 55 1 265 40 265"></polygon>
+                        </g>
+                        <polygon id="Path-23" fill="#D9D9DC" points="0 265 0 158 19 138 19 265"></polygon>
+                    </g>
+                </g>
+                <path d="M0,327 L70,327 L70,10 L0,10 L0,0 L220,0 L220,337 L0,337 L0,327 Z M78,10 L78,327 L210,327 L210,10 L78,10 Z" id="frame" fill="#232323"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="220px" height="337px" viewBox="0 0 220 337" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>window_1/view copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="window_1/view-copy">
+            <g id="Group-2-Copy">
+                <g id="view" transform="translate(0.000000, 10.000000)">
+                    <rect id="sky" fill="#C35214" x="0" y="0" width="210" height="317"></rect>
+                    <rect id="Rectangle" fill="#D8D8D8" opacity="0.200000003" x="125" y="146" width="49" height="13" rx="2"></rect>
+                    <rect id="Rectangle-Copy" fill="#D8D8D8" opacity="0.100000001" x="150" y="161" width="49" height="13" rx="2"></rect>
+                    <rect id="Rectangle-Copy-2" fill="#D8D8D8" opacity="0.5" x="57" y="287" width="49" height="13" rx="2"></rect>
+                    <rect id="Rectangle-Copy-5" fill="#D8D8D8" opacity="0.5" x="8" y="62" width="49" height="13" rx="2"></rect>
+                    <path d="M0,77 L30,77 C31.1045695,77 32,77.8954305 32,79 L32,88 C32,89.1045695 31.1045695,90 30,90 L0,90 L0,77 Z" id="Rectangle-Copy-6" fill="#D8D8D8" opacity="0.5"></path>
+                    <path d="M178,176 L220,176 L220,189 L178,189 C176.895431,189 176,188.104569 176,187 L176,178 C176,176.895431 176.895431,176 178,176 Z" id="Rectangle-Copy-3" fill="#D8D8D8" opacity="0.5"></path>
+                    <path d="M178,146 L220,146 L220,159 L178,159 C176.895431,159 176,158.104569 176,157 L176,148 C176,146.895431 176.895431,146 178,146 Z" id="Rectangle-Copy-4" fill="#D8D8D8" opacity="0.200000003"></path>
+                    <rect id="Rectangle-Copy-7" fill="#D8D8D8" opacity="0.200000003" x="83" y="272" width="49" height="13" rx="2"></rect>
+                    <rect id="Rectangle-Copy-8" fill="#D8D8D8" opacity="0.200000003" x="132" y="16" width="49" height="13" rx="2"></rect>
+                </g>
+                <path d="M0,327 L70,327 L70,10 L0,10 L0,0 L220,0 L220,337 L0,337 L0,327 Z M78,10 L78,327 L210,327 L210,10 L78,10 Z" id="frame" fill="#232323"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="76px" height="76px" viewBox="0 0 76 76" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>clock</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="empty-room" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-492.000000, -559.000000)">
+        <g id="Group" transform="translate(72.000000, 562.000000)">
+            <g id="clock" transform="translate(423.000000, 0.000000)">
+                <circle id="Oval-3" stroke="#979797" stroke-width="6" fill="#FFFFFF" cx="35" cy="35" r="35"></circle>
+                <rect id="Rectangle-Copy" fill="#D0021B" transform="translate(26.432500, 46.554821) rotate(36.000000) translate(-26.432500, -46.554821) " x="26.0436113" y="32.5548211" width="1" height="28"></rect>
+                <rect id="Rectangle" fill="#4A4A4A" x="33.4444444" y="8.55555556" width="1.55555556" height="28"></rect>
+                <rect id="Rectangle-Copy-2" fill="#4A4A4A" transform="translate(43.931802, 34.343097) rotate(80.000000) translate(-43.931802, -34.343097) " x="43.154024" y="24.6208744" width="1.55555556" height="19.4444444"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

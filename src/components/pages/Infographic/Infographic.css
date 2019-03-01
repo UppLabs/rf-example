@@ -1,0 +1,138 @@
+.Infographic-editor-field-container {
+    position: relative;
+    padding-left: 30px;
+    margin: 10px 0;
+    display: flex;
+}
+
+.Infographic-editor-location-icon {
+    position: absolute;
+    width: 20px;
+    height: 32px;
+    background: url('/images/location.svg') no-repeat;
+    left: -5px;
+}
+
+.Infographic-editor-location-icon ~ div > .Infographic-editor-input {
+    width: 500px;
+}
+
+
+.Infographic-editor-input {
+    padding: 2px 10px;
+    border: 1px solid rgb(196, 196, 196);
+    border-radius: 4px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+   
+    width: 300px;
+    height: 30px;
+}
+
+.Infographic-editor-input:focus {
+    outline-color: transparent;
+    box-shadow: 0px 0px 8px #d9d9d9;
+    -moz-box-shadow: 0px 0px 8px #d9d9d9;
+    -webkit-box-shadow: 0px 0px 8px #d9d9d9;
+    transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;
+}
+
+.Infographic-editor-textarea {
+    height: 86px;
+    padding: 2px 10px;
+    border: 1px solid  rgb(196, 196, 196);
+    border-radius: 4px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;   
+    width: 500px;
+}
+
+
+.Infographic-editor-comment-icon {
+    position: absolute;
+    width: 22px;
+    height: 32px;
+    background: url('/images/comment.svg') no-repeat;
+    left: -5px;
+}
+
+.Infographic-editor-textarea:focus {
+    outline-color: transparent;
+    
+    box-shadow: 0px 0px 8px #d9d9d9;
+    -moz-box-shadow: 0px 0px 8px #d9d9d9;
+    -webkit-box-shadow: 0px 0px 8px #d9d9d9;
+    transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;
+}
+
+.Infographic-editor-datepicker {
+    width: 98px !important;
+    padding: 6px 10px !important;
+}
+
+.Infographic-editor-label{
+    font-weight: 600;
+}
+
+.Infographic-editor-label-to {
+    margin: 6px 25px;
+    font-size: 16px;
+}
+
+.checkbox-list {
+    margin-left: 15px;
+}
+
+.Infographic-editor-buttons {
+    display: flex;
+}
+
+.Infographic-editor-field-tempwall{
+    padding-left: 30px;
+}
+
+.Infographic-appartment-type-container {
+    display: block;
+    position: relative;
+    padding-left: 30px;
+    margin: 10px 0;
+}
+
+.Infographic-appartment-type-container-items {
+    margin-left: 10px;
+    display: flex;
+}
+
+
+.Infographic-appartment-type-container-items .Checkbox-container{
+    margin-left: 10px;
+}
+
+.Infographic-moveIn-container {
+    position: relative;
+    padding-left: 30px;
+    margin: 10px 0;   
+}
+
+.Infographic-moveIn-period {
+    display: flex;
+}
+
+.Infographic-moveIn-period .month-picker {
+    margin-left: 5px;
+    padding-top: 7px;
+}
+
+.Infographic-moveIn-period .month-picker label {
+    font-weight: 400;
+    color: #19a9e5;
+    cursor: pointer;
+}
+
+.Infographic__edit-staying {
+    height: 15px;
+    position: absolute;
+    margin-left: 5px;
+    margin-top: 2px;
+    cursor: pointer;
+}

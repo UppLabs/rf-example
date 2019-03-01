@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="328px" height="179px" viewBox="0 0 328 179" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>tv</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="108" height="52"></rect>
+        <rect id="path-2" x="108" y="0" width="108" height="52"></rect>
+        <rect id="path-3" x="216" y="0" width="108" height="52"></rect>
+    </defs>
+    <g id="empty-room" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-327.000000, -652.000000)">
+        <g id="Group" transform="translate(72.000000, 562.000000)">
+            <g id="tv" transform="translate(257.000000, 91.000000)">
+                <g>
+                    <g id="TV" transform="translate(55.000000, 0.000000)" fill="#222222">
+                        <g id="Group-2">
+                            <path d="M16.2,119.724138 L96.88,119.724138 C99.6414237,119.724138 101.88,117.485562 101.88,114.724138 L101.88,105.471264 L114.48,105.471264 L114.48,114.724138 C114.48,117.485562 116.718576,119.724138 119.48,119.724138 L202.68,119.724138 L202.68,124 L16.2,124 L16.2,119.724138 Z" id="Path-2"></path>
+                            <rect id="Rectangle-3" stroke="#4A4A4A" stroke-width="2" x="0" y="0" width="216" height="114.022989"></rect>
+                        </g>
+                    </g>
+                    <g id="TV-shelve" transform="translate(0.000000, 124.000000)">
+                        <g id="Group" stroke-width="1">
+                            <g id="Rectangle">
+                                <use fill="#E0B687" xlink:href="#path-1"></use>
+                                <use stroke="#E0B687" stroke-width="3" fill-opacity="0.224439538" fill="#000000" xlink:href="#path-1"></use>
+                            </g>
+                            <g id="Rectangle-Copy">
+                                <use fill="#E0B687" xlink:href="#path-2"></use>
+                                <use stroke="#E0B687" stroke-width="3" fill-opacity="0.224439538" fill="#000000" xlink:href="#path-2"></use>
+                            </g>
+                            <g id="Rectangle-Copy-2">
+                                <use fill="#E0B687" xlink:href="#path-3"></use>
+                                <use stroke="#E0B687" stroke-width="3" fill-opacity="0.224439538" fill="#000000" xlink:href="#path-3"></use>
+                            </g>
+                        </g>
+                        <rect id="Rectangle-2" fill="#F4F4F4" transform="translate(112.184998, 29.567508) rotate(-5.000000) translate(-112.184998, -29.567508) " x="111.011085" y="8.29478036" width="2.34782609" height="42.5454545"></rect>
+                        <rect id="Rectangle-2-Copy" fill="#FF9400" transform="translate(115.262054, 29.530918) rotate(-7.000000) translate(-115.262054, -29.530918) " x="114.088141" y="8.258191" width="2.34782609" height="42.5454545"></rect>
+                        <rect id="Rectangle-2-Copy-2" fill="#908B8B" transform="translate(117.609880, 29.530918) rotate(-7.000000) translate(-117.609880, -29.530918) " x="116.435967" y="8.258191" width="2.34782609" height="42.5454545"></rect>
+                        <rect id="Rectangle-2-Copy-3" fill="#E5E5E5" transform="translate(119.957706, 29.530918) rotate(-7.000000) translate(-119.957706, -29.530918) " x="118.783793" y="8.258191" width="2.34782609" height="42.5454545"></rect>
+                        <rect id="Rectangle-2-Copy-4" fill="#FFFFFF" transform="translate(122.305532, 29.530918) rotate(-7.000000) translate(-122.305532, -29.530918) " x="121.131619" y="8.258191" width="2.34782609" height="42.5454545"></rect>
+                        <rect id="Rectangle-2-Copy-5" fill="#FFBA41" transform="translate(124.653359, 29.530918) rotate(-7.000000) translate(-124.653359, -29.530918) " x="123.479446" y="8.258191" width="2.34782609" height="42.5454545"></rect>
+                        <rect id="Rectangle-2-Copy-6" fill="#423933" transform="translate(150.260870, 46.090909) rotate(-90.000000) translate(-150.260870, -46.090909) " x="146.73913" y="24.8181818" width="7.04347826" height="42.5454545"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

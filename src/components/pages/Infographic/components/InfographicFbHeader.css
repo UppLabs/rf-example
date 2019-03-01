@@ -1,0 +1,35 @@
+.height40 {
+    height:40px;
+}
+
+.InfographicFbHeader-container {
+    display: flex;
+    margin-bottom: 12px;
+}
+
+.InfographicFbHeader-icon {
+    border-radius: 50%;
+}
+
+.InfographicFbHeader-title{
+    margin-left: 10px;
+}
+
+.InfographicFbHeader-username {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: #365899;
+    font-weight: 700;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+.InfographicFbHeader-postdetails {
+    color: #90949c;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+}
+
+.location .LinesEllipsis {
+    display: inline;
+}

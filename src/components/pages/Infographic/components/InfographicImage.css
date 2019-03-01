@@ -1,0 +1,300 @@
+.InfographicImage-container {
+    color: #fff;
+    font-size: 12px;
+}
+
+.InfographicImage-details {
+    padding: 20px 10px 5px 10px;
+    display: flex;
+    min-height: 150px;
+}
+
+.InfographicImage-userImage .InfographicFbHeader-icon {
+    width: 50px;
+}
+
+.InfographicImage-userInfo {
+    margin-left: 20px;
+}
+
+.InfographicImage-userInfo-name {
+    font-size: 20px;
+    font-weight: 600;
+    min-height: 28px;
+}
+
+.InfographicImage-userInfo-price {
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.InfographicImage-userInfo-priceLabel, .InfographicImage-userInfo {
+    font-size: 10px;
+    font-weight: normal;
+}
+
+.InfographicImage-details-location, .InfographicImage-details-comment {
+    display: flex;
+    position: relative;
+}
+
+.InfographicImage-details-comment {
+    margin-top: 20px;
+}
+
+.InfographicImage-details-location-text,
+.InfographicImage-details-comment-text {
+    padding-left: 30px;
+}
+
+.InfographicImage-details-comment-text {
+    width: 280px;
+    /*max-height: 51px;
+    overflow: hidden;
+    text-overflow: ellipsis;*/
+}
+
+.InfographicImage-details-location-icon,
+.InfographicImage-details-comment-icon {
+    background-size: contain !important;
+    width: 20px;
+    height: 32px;
+    position: absolute;
+    left: 0;
+    top: -5px;
+}
+
+.InfographicImage-details-comment-icon {
+    background: url('/images/comment-white.svg') no-repeat;
+    top: 0px;
+}
+
+.InfographicImage-description {
+    padding: 10px 0 0 20px;
+}
+
+.InfographicImage-details-location-icon {
+    background: url('/images/location-white.svg') no-repeat;
+    top: 0;
+}
+
+.InfographicImage-details-description {
+    display: flex;
+    margin-top: 10px;
+    margin-left: 30px;
+    max-height: 0px;
+    font-size: 12px;
+}
+
+.InfographicImage-details-description > div {
+    width: 50%;
+}
+
+.InfographicImage-iconsContainer {
+    position: relative;
+    height: 250px;
+}
+
+.InfographicImage-details-needs {
+    padding-left: 20px;
+}
+
+.InfographicImage-floor {
+    background-color: #363636;
+    position: absolute;
+    width: 380px;
+    height: 80px;
+    bottom: 0;
+    left: 0;
+    z-index: 0;
+}
+
+/**/
+.InfographicImage-icons-smallDog {
+    background: url('/images/small-dog.svg') no-repeat;
+    width: 50px;
+    height: 50px;
+    background-size: contain;
+    position: absolute;
+    bottom: 40px;
+    right: 110px;
+    z-index: 10;
+}
+
+.InfographicImage-icons-dog {
+    background: url('/images/big-dog.svg') no-repeat;
+    background-size: contain;
+    position: absolute;
+    width: 100px;
+    height: 80px;
+    z-index: 11;
+    left: 10px;
+    bottom: 35px;
+}
+
+.InfographicImage-icons-cat {
+    background: url('/images/cat.svg') no-repeat;
+    width: 50px;
+    height: 50px;
+    background-size: contain;
+    position: absolute;
+    bottom: 10px;
+    right: 30px;
+    z-index: 11;
+}
+
+/*+*/
+.InfographicImage-icons-elevator {
+    background: url('/images/elevator.svg') no-repeat;
+    width: 40px;
+    height: 160px;
+    background-size: contain;
+    position: absolute;
+    right: -2px;
+    bottom: 78px;
+    z-index: 10;
+}
+
+/*+*/
+.InfographicImage-icons-window {
+    background: url('/images/window.svg') no-repeat;
+}
+
+.InfographicImage-icons-view {
+    background: url('/images/view.svg') no-repeat;
+}
+
+.InfographicImage-icons-light {
+    background: url('/images/light.svg') no-repeat;
+}
+
+.InfographicImage-icons-view-and-light {
+    background: url('/images/view-and-light.svg') no-repeat;
+}
+
+.InfographicImage-details-location-text {
+    width: 280px;
+}
+
+.InfographicImage-icons-view, .InfographicImage-icons-window {
+    width: 70px;
+    position: absolute;
+    left: 12px;
+    bottom: 78px;
+    z-index: 10;
+    height: 160px;
+    background-size: contain;
+}
+
+.InfographicImage-icons-light, .InfographicImage-icons-view-and-light {
+    width: 105px;
+    height: 160px;
+    background-size: contain;
+    position: absolute;
+    left: 0;
+    bottom: 78px;
+    z-index: 10;
+}
+
+/**/
+.InfographicImage-icons-laundry {
+    background: url('/images/laundry.svg') no-repeat;
+    width: 70px;
+    height: 50px;
+    background-size: contain;
+    position: absolute;
+    bottom: 45px;
+    right: 35px;
+    z-index: 11;    
+}
+
+/*+*/
+.InfographicImage-icons-gym {
+    background: url('/images/gym.svg') no-repeat;
+    width: 95px;
+    height: 50px;
+    background-size: contain;
+    position: absolute;
+    bottom: 20px;
+    left: 130px;
+    z-index: 10;    
+}
+
+/*+*/
+.InfographicImage-icons-chair {
+    background: url('/images/chair.svg') no-repeat;
+    width: 100px;
+    height: 120px;
+    background-size: contain;
+    position: absolute;
+    bottom: 12px;
+    left: 40px;
+    z-index: 12;    
+}
+
+
+/*+*/
+.InfographicImage-icons-tv {
+    background: url('/images/tv.svg') no-repeat;
+    width: 155px;
+    height: 85px;
+    background-size: contain;
+    position: absolute;
+    bottom: 78px;
+    left: 50%;
+    margin-left: -45px;
+    z-index: 10;    
+}
+
+.InfographicImage-icons-coffetable {
+    background: url('/images/table.svg') no-repeat;
+    width: 50px;
+    height: 58px;
+    background-size: contain;
+    position: absolute;
+    bottom: 72px;
+    right: 28px;
+    z-index: 10;    
+}
+
+.InfographicImage-icons-wall,
+.InfographicImage-icons-paperwork,
+.InfographicImage-moveDate {
+    width: 25px;
+    height: 30px;
+    background-size: contain;
+    z-index: 10;
+    margin: 10px 15px;
+}
+
+.InfographicImage-icons-wall {
+    background: url('/images/wall.svg') no-repeat;
+    background-size: contain;
+}
+
+.InfographicImage-icons-paperwork {
+    background: url('/images/paperwork.svg') no-repeat;
+    background-size: contain;
+}
+
+.InfographicImage-moveDate {
+    width: 25px;
+    height: 30px;
+}
+
+.InfographicImage-date {
+    background-color: #fff;
+    color: #000;
+    font-size: 16px;
+    font-weight: 700;
+    text-align: center;
+    height: 20px;
+}
+
+.InfographicImage-month {
+    background-color: #2F72FF;
+    color: #fff;
+    font-size: 9px;
+    text-align: center;
+    font-weight: 600;
+}

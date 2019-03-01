@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="121px" viewBox="0 0 100 121" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Coffee-table_1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="empty-room" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-632.000000, -724.000000)">
+        <g id="Group" transform="translate(72.000000, 562.000000)">
+            <g id="Coffee-table_1" transform="translate(560.000000, 162.000000)">
+                <g>
+                    <path d="M0,0 L0,10.9218223 L0.83010341,10.9218223 L0.83010341,121 L4.64324384,121 L4.64324384,89.8374267 L31.1437852,89.8374267 L31.1437852,121 L34.956141,121 L34.956141,89.8374267 L95.1904216,89.8374267 L95.1904216,121 L99.0027775,121 L99.0027775,10.9218223 L100,10.9218223 L100,0 L0,0 Z M34.956141,86.6465613 L95.1904216,86.6465613 L95.1904216,10.9218223 L34.956141,10.9218223 L34.956141,86.6465613 Z M4.64324384,86.6465613 L31.1430006,86.6465613 L31.1430006,10.9218223 L4.64324384,10.9218223 L4.64324384,86.6465613 Z" id="Fill-1" fill="#EA401F"></path>
+                    <polygon id="Fill-2" fill="#9B2718" points="31 121 35 121 35 11 31 11"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
